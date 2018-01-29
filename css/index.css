@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  float: left;
+  width: 16.3%;
+  min-height: 84px;
+  margin: 51px 0 0 15.19922%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
