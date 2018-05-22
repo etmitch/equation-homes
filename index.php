@@ -10,5 +10,6 @@
 </head>
 <body class="body page-index clearfix">
   <p class="text">In Progress! Come Back Soon!</p>
+  <?php echo '<p>Hello World</p>'; ?>
 </body>
 </html>
